@@ -1,4 +1,4 @@
-- 👋 Hi, Nana Clovert
+- 👋 Hi, i'm Nana Clovert
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on building websites and apps
